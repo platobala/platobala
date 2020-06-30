@@ -5,6 +5,15 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
+h4{
+    font-size: 15px;
+}
+p{
+    color: grey;
+}
 .name-highlit{
     color: springgreen;
 
@@ -38,4 +47,9 @@ section{
     border-radius: 10px;
     color:white;
     font-weight: 700;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
