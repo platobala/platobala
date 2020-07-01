@@ -14,7 +14,7 @@ h4{
 p{
     color: grey;
 }
-.name-highlit{
+.orange-highlit{
     color: springgreen;
 
 }
@@ -52,4 +52,14 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.shadow{
+    box-shadow:10px 10px 40px gray;
+    height: 80%;
+    
+}
+.experinces-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
